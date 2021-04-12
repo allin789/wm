@@ -1,0 +1,5 @@
+#!/bin/zsh
+
+nitrogen --restore &
+slstatus &
+xcompmgr -c &
